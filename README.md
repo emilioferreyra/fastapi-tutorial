@@ -1,2 +1,2 @@
 # fastapi-tutorial
-App example from FastAPI tutorial
+FastAPI tutorial sample app
